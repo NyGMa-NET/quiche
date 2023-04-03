@@ -1,0 +1,17 @@
+# Build temporary
+bazel-*/
+bazel-*
+
+# CLI
+nohup.out
+
+# Mergetool
+*.orig
+
+# IDE
+.vscode/
+.idea/
+*.user
+.vs/
+*.vcxproj*
+*.cbp
